@@ -15,8 +15,8 @@
   background: linear-gradient(
     330deg,
     transparent 0%,
-    rgba(248, 250, 252, 0.3) 35%,
-    rgba(248, 250, 252, 0.8) 75%,
+    rgba(248, 250, 252, 0.3) 45%,
+    rgba(248, 250, 252, 0.8) 55%,
     rgba(248, 250, 252, 1) 100%
   );
   pointer-events: none;
